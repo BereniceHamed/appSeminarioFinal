@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">appSeminarioFinal</string>
+    <string name="text_Estacionar">Estacionar</string>
+    <string name="text_DondeEstaciono">Dónde estaciono?</string>
+    <string name="text_Saldo">Saldo</string>
+    <string name="text_Numero_Saldo">$5000</string>
+    <string name="text_Cargar_Saldo">Cargar Saldo</string>
+    <string name="text_Number_Box">Numero de Box</string>
+    <string name="text_Comenzar">Comenzar</string>
+    <string name="text_Email">Email</string>
+    <string name="text_Password">Contraseña</string>
+    <string name="text_Olvidaste">¿Olvidaste tu contraseña?</string>
+    <string name="text_Ingresar">INICIAR SESION</string>
+    <string name="text_Registrate">¿No tienes una cuenta? Registrate</string>
+    <string name="text_Box">BOX</string>
+    <string name="text_textView5000">5000</string>
+    <string name="text_Tiempo">TIEMPO</string>
+    <string name="text_Detener">Detener</string>
+    <string name="text_Iniciar">Iniciar</string>
+    <string name="text_Mapa">Ver en el mapa</string>
+
+</resources>
